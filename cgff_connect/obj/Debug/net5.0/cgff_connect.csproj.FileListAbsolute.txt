@@ -1,0 +1,5 @@
+F:\datadump\readtolocal\readtolocal\cgff_connect\obj\Debug\net5.0\cgff_connect.csproj.AssemblyReference.cache
+F:\datadump\readtolocal\readtolocal\cgff_connect\obj\Debug\net5.0\cgff_connect.GeneratedMSBuildEditorConfig.editorconfig
+F:\datadump\readtolocal\readtolocal\cgff_connect\obj\Debug\net5.0\cgff_connect.AssemblyInfoInputs.cache
+F:\datadump\readtolocal\readtolocal\cgff_connect\obj\Debug\net5.0\cgff_connect.AssemblyInfo.cs
+F:\datadump\readtolocal\readtolocal\cgff_connect\obj\Debug\net5.0\cgff_connect.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\datadump\readtolocal\ConsoleReadtolocal\obj\Debug\ConsoleReadtolocal.csproj.AssemblyReference.cache
+C:\datadump\readtolocal\ConsoleReadtolocal\obj\Debug\ConsoleReadtolocal.csproj.CoreCompileInputs.cache
+C:\datadump\readtolocal\ConsoleReadtolocal\bin\Debug\ConsoleReadtolocal.exe.config
+C:\datadump\readtolocal\ConsoleReadtolocal\bin\Debug\ConsoleReadtolocal.exe
+C:\datadump\readtolocal\ConsoleReadtolocal\bin\Debug\ConsoleReadtolocal.pdb
+C:\datadump\readtolocal\ConsoleReadtolocal\bin\Debug\cgff_connect.dll
+C:\datadump\readtolocal\ConsoleReadtolocal\bin\Debug\cgff_connect.pdb
+C:\datadump\readtolocal\ConsoleReadtolocal\obj\Debug\ConsoleReadtolocal.csproj.CopyComplete
+C:\datadump\readtolocal\ConsoleReadtolocal\obj\Debug\ConsoleReadtolocal.exe
+C:\datadump\readtolocal\ConsoleReadtolocal\obj\Debug\ConsoleReadtolocal.pdb
